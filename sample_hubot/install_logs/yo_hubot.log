@@ -1,0 +1,69 @@
+
+t
+? ==========================================================================
+We're constantly looking for ways to make yo better!
+May we anonymously report usage statistics to improve the tool over time?
+More info: https://github.com/yeoman/insight & http://yeoman.io
+========================================================================== No
+                     _____________________________
+                    /                             \
+   //\              |      Extracting input for    |
+  ////\    _____    |   self-replication process   |
+ //////\  /_____\   \                             /
+ ======= |[^_/\_]|   /----------------------------
+  |   | _|___@@__|__
+  +===+/  ///     \_\
+   | |_\ /// HUBOT/\\
+   |___/\//      /  \\
+         \      /   +---+
+          \____/    |   |
+           | //|    +===+
+            \//      |xx|
+
+? Owner yukimura1227 <takamura1227@gmail.com>
+? Bot name sample-hubot
+? Description sample for generate hubot
+? Bot adapter slack
+   create bin/hubot
+   create bin/hubot.cmd
+   create Procfile
+   create README.md
+   create external-scripts.json
+   create hubot-scripts.json
+   create .gitignore
+   create package.json
+   create scripts/example.coffee
+   create .editorconfig
+                     _____________________________
+ _____              /                             \
+ \    \             |   Self-replication process   |
+ |    |    _____    |          complete...         |
+ |__\\|   /_____\   \     Good luck with that.    /
+   |//+  |[^_/\_]|   /----------------------------
+  |   | _|___@@__|__
+  +===+/  ///     \_\
+   | |_\ /// HUBOT/\\
+   |___/\//      /  \\
+         \      /   +---+
+          \____/    |   |
+           | //|    +===+
+            \//      |xx|
+
+npm WARN deprecated connect@2.30.2: connect 2.x series is deprecated
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN hubot-help@0.2.2 requires a peer of coffee-script@^1.12.6 but none was installed.
+
++ hubot-diagnostics@0.0.2
++ hubot-scripts@2.17.2
++ hubot-google-images@0.2.7
++ hubot-heroku-keepalive@1.0.3
++ hubot-redis-brain@0.0.4
++ hubot-rules@0.1.2
++ hubot-slack@4.4.0
++ hubot-pugme@0.1.1
++ hubot-maps@0.0.3
++ hubot-help@0.2.2
++ hubot-google-translate@0.2.1
++ hubot@2.19.0
++ hubot-shipit@0.2.1
+added 229 packages in 12.282s

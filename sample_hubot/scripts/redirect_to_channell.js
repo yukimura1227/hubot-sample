@@ -23,10 +23,6 @@ function sleep(msec) {
 }
 
 module.exports = function(robot) {
-  robot.hear(/./i, async (res) => {
-    res.send('hogehoge');
-    robot.send({ room: 'general' }, 'hogehoge');
-  });
   robot.hear(/^rule\s+#(.*)\s+(\d+)\s+(.*)/i, async (res) => {
     var channel    = res.match[1];
     var probability = res.match[2];
